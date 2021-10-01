@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Uni\Lab3\Cpp\Lab3\src\main.cpp(27): warning C4715: 'FindFunctionInterval': not all control paths return a value
+  Lab3.vcxproj -> D:\Uni\Lab3\Cpp\Debug\Lab3.exe
